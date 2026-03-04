@@ -1,1 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, san-serif;
+    text-align: center;
+    margin-top: 100px;
+ }
 
+ button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    font-size: 18px;
+    margin: 20px;
+    cursor: pointer;
+ }
